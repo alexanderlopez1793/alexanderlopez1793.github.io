@@ -1,6 +1,6 @@
 ---
 title: "Simple Webiste"
-author: "Alex Lopez, Akib Hossain, Alan Abadzic"
+author: "Alex Lopez"
 date: "11/7/2021"
 output: html_document
 ---
