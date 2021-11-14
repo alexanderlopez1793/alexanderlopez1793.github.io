@@ -1,0 +1,15 @@
+---
+title: "Unit 12 - For Live Session Assignment"
+author: "Alex Lopez"
+date: "11/13/2021"
+output: html_document
+---
+
+# About Me
+1. Alex Lopez
+2. I am from Dallas Texas.
+3. My interest include spending time with my family, fishing, and watching sports.
+4. I currently work for Atmos Energy as an Engineer.
+5. I received my BS in Mechanical Engineering from Texas Tech.
+
+### The other tabs represent work and analyses that I have completed during "Doing Data Science". Please check them out and reach out if you have any questions! My email is alexanderlopez@smu.edu
